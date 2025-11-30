@@ -1,5 +1,5 @@
 import Layout from '@components/Layout';
-import { Link } from './routers'; // Corrected import path
+import Link from 'next/link'; // CORRECTED: Use Next.js's built-in Link
 
 export default function About() {
   return (
