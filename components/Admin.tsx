@@ -1,5 +1,5 @@
 import Layout from '@components/Layout';
-import Link from 'next/link'; // CORRECTED: Use Next.js's built-in Link
+import Link from 'next/link'; //
 
 export default function Admin() {
   return (
